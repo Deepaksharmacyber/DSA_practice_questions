@@ -1,0 +1,8 @@
+# Ignore everything inside Array
+Array/*
+
+# Allow Python solution files
+!Array/*.py
+
+# Allow subfolders (if any)
+!Array/**/
